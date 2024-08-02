@@ -1,4 +1,4 @@
-# 歡迎來到我的 VitePress 網站
+# 歡迎來到我的 VitePress erpProject 網站
 
 這是首頁。你可以使用 **Markdown** 來撰寫內容。
 
@@ -20,15 +20,6 @@
 - 項目一
 - 項目二
 - 項目三
-
-[更多資訊](./about.md)
-/
-[更多資訊](./other-page.md)
-/
-[Google](https://www.google.com)
-/
-![替代文字](https://www.example.com/image.jpg)
-
 
 
 這是一段 `單行程式碼`。
